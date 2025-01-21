@@ -38,9 +38,9 @@ This project uses Excel and Power BI dashboards to analyze gym members' performa
 - Create a gym plan for the younger Age-group to ensure consistency. 
 - Educate members on the benefits of frequency and other measure for better outcomes.  
 
-### **Visualizations**  
-- **Excel Dashboard**: ![Dashboard using Microsoft Excel](https://github.com/user-attachments/assets/44b1f303-504c-4d70-9373-a44deefaf7f0)
-- **Power BI Dashboard**: ![Visualization using Microsoft Powerbi](https://github.com/user-attachments/assets/4921ab77-53df-477f-aa55-b5700c17e219)
+## **Visualizations**  
+- ## **Excel Dashboard**: ![Dashboard using Microsoft Excel](https://github.com/user-attachments/assets/44b1f303-504c-4d70-9373-a44deefaf7f0)
+- ## **Power BI Dashboard**: ![Visualization using Microsoft Powerbi](https://github.com/user-attachments/assets/4921ab77-53df-477f-aa55-b5700c17e219)
 
 ## **Conclusion**  
 The analysis reveals how workout frequency, hydration, and demographic factors influence performance. These insights help design tailored fitness programs and improve member outcomes.
